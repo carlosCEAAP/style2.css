@@ -3,6 +3,10 @@ body {
 	background: #CCCCCC
 }
 
+#banner {
+	width: 100%;
+}
+
 h1 { 
 	text-align: center
 }
@@ -17,4 +21,8 @@ p {
 
 em strong {
 	color: #FF0000;
+}
+
+.itens {
+	font-style: italic
 }
